@@ -16,4 +16,4 @@
 
 ## Note
 
-The MTO-Platform (MToP) has incorporated the relevant algorithm at *"MTO/Algorithms/Single-task/Constraint Handling/CCEF-ECHT/CCEF-ECHT.m"* and provides convenient utility functions. We highly recommend using it for code running. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
+The MTO-Platform (MToP) has incorporated the relevant algorithm at *"MTO/Algorithms/Single-task/Constraint Handling/CCEF-ECHT/CCEF_ECHT.m"* and provides convenient utility functions. We highly recommend using it for code running. [https://github.com/intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)
